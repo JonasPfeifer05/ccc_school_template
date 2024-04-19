@@ -9,7 +9,7 @@ mod level_reader;
 
 fn main() {
     let level = 3;
-    let run_example = true;
+    let run_example = false;
 
     match level {
         1 => run_level("level1", run_example, level_1::level_1),

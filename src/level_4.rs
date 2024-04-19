@@ -1,3 +1,3 @@
-use std::path::PathBuf;
-
-pub fn level_1(path: PathBuf) {}
+pub fn level_4(content: String) -> String {
+    todo!()
+}

@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.82"
 itertools = "0.12.1"
+regex = "1.11.1"
